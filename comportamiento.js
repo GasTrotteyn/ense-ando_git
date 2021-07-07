@@ -5,5 +5,10 @@ console.log("hola mundo");
 //modificación 4
 // modificacion 5
 siete;
+<<<<<<< HEAD
 gordo;
 flaco;
+=======
+ocho;
+nueve;
+>>>>>>> nueva_funcionalidad
