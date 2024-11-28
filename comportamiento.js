@@ -1,4 +1,4 @@
-console.log("hola mundo");
+console.log('hola mundo');
 // una modificación
 // una modificación hecha en gitHub que será bajada a la pc con el comando pull
 // modificación 3
@@ -7,3 +7,4 @@ console.log("hola mundo");
 siete;
 ocho;
 nueve;
+//algo metido en la branch para que haga conflicto
