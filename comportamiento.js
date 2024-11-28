@@ -4,9 +4,7 @@ console.log('hola mundo');
 // modificación 3
 //modificación 4
 // modificacion 5
-siete;
+elTioDeMiAbuela;
 gordo;
-nadadeTios;
+otroTioQueConflictua;
 flaco;
-ocho;
-nueve;
