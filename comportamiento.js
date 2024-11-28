@@ -6,4 +6,5 @@ console.log('hola mundo');
 // modificacion 5
 elTioDeMiAbuela;
 gordo;
+otroTioQueConflictua;
 flaco;
