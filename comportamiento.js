@@ -5,6 +5,8 @@ console.log('hola mundo');
 //modificación 4
 // modificacion 5
 siete;
+gordo;
+flaco;
 ocho;
 nueve;
 //algo metido en la branch para que haga conflicto

@@ -1,3 +1,3 @@
-# enseniando_git
-proyecto para enseñar las bases de git
-este proyecto me permite dar ejemplos de los comandos básicos de git y gitHub
+# teaching_git
+This is a repository for teaching git basics.
+The project allows me to give examples of the basic git and gitHub commands. (clone, push, pull, commit, add, status, branch, merge, etc)
